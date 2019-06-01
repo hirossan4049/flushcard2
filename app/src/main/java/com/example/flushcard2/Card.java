@@ -15,6 +15,8 @@ public class Card {
         this.title = title;
         this.content = content;
         this.meaning = meaning;
+
+
     }
 
 }
