@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
                 getString(R.string.walk_content),getString(R.string.walk_meaning)));
         mCards.add(new Card(R.drawable.icon2,getString(R.string.jump_title),
                 getString(R.string.jump_content),getString(R.string.jump_meaning)));
+        mCards.add(new Card(R.drawable.icon3,getString(R.string.president_title),
+                getString(R.string.president_content),getString(R.string.president_meaning)));
+        mCards.add(new Card(R.drawable.icon4,getString(R.string.shortcut_title),
+                getString(R.string.shortcut_content),getString(R.string.shortcut_meaning)));
 
         mCardAdapter = new CardAdapter(this,R.layout.card,mCards);
         mListView.setAdapter(mCardAdapter);

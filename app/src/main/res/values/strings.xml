@@ -6,9 +6,17 @@
     <string name="walk_title">walk</string>
     <string name="walk_content">・test</string>
     <string name="walk_meaning">散歩</string>
-
+    <!--junp-->
     <string name="jump_title">jump</string>
     <string name="jump_content">・test</string>
     <string name="jump_meaning">飛ぶ</string>
+    <!--President-->
+    <string name="president_title">president</string>
+    <string name="president_content">・test</string>
+    <string name="president_meaning">社長,部長</string>
+    <!--shortcut-->
+    <string name="shortcut_title">shortcut</string>
+    <string name="shortcut_content">・test</string>
+    <string name="shortcut_meaning">ショートカット</string>
 
 </resources>
