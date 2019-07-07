@@ -7,6 +7,7 @@ public class Card {
     public String content;
     public int likeNum = 0;
 
+
     public String meaning;
 
 
